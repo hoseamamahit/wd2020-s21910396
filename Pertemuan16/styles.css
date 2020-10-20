@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: 'Sansita Swashed', cursive;
+    color: blue;
+    font-size: 32px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
