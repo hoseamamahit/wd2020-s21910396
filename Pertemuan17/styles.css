@@ -1,0 +1,81 @@
+h1 {
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+p {
+    font-size: large;
+}
+
+table, tr, th, td {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+/* style untuk Absolute Lenghts */
+td.cm {
+    font-size: 1cm;
+}
+
+td.mm {
+    font-size: 6mm;
+}
+
+td.in {
+    font-size: 1in;
+}
+
+td.px {
+    font-size: 50px;
+}
+
+td.pt {
+    font-size: 30pt;
+}
+
+td.pc {
+    font-size: 10pc;
+}
+
+/* style untuk Relative Lenghts */
+td.em {
+    font-size: 3em;
+}
+
+td.ex {
+    font-size: 5ex;
+}
+
+td.ch {
+    font-size: 7ch;
+}
+
+td.rem {
+    font-size: 5rem;
+}
+
+td.vw {
+    font-size: 10vw;
+}
+
+td.vh {
+    font-size: 15vh;
+}
+
+td.vmin {
+    font-size: 5vmin;
+}
+
+td.vmax {
+    font-size: 20vmax;
+}
+
+td.percent {
+    font-size: 100%;
+}
